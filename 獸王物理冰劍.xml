@@ -4,7 +4,7 @@
   <filterIcon>12</filterIcon>
   <filterIconColor>6</filterIconColor>
   <description>1.紅色物理冰霜召喚物傷害2.黃分解用3.深藍物理冰霜召喚物神像4.套裝少見要撿</description>
-  <lastModifiedInVersion>1.0.1.3</lastModifiedInVersion>
+  <lastModifiedInVersion>1.0.2</lastModifiedInVersion>
   <lootFilterVersion>2</lootFilterVersion>
   <rules>
     <Rule>
@@ -84,12 +84,7 @@
         <Condition i:type="AffixCondition">
           <affixes>
             <int>26</int>
-            <int>71</int>
-            <int>70</int>
-            <int>73</int>
-            <int>98</int>
             <int>64</int>
-            <int>102</int>
             <int>643</int>
             <int>501</int>
             <int>721</int>
@@ -97,7 +92,6 @@
             <int>627</int>
             <int>590</int>
             <int>540</int>
-            <int>332</int>
             <int>666</int>
             <int>356</int>
             <int>348</int>
@@ -106,9 +100,21 @@
             <int>336</int>
             <int>353</int>
             <int>555</int>
+            <int>78</int>
+            <int>63</int>
+            <int>62</int>
+            <int>5</int>
+            <int>6</int>
+            <int>89</int>
+            <int>35</int>
+            <int>340</int>
+            <int>16</int>
+            <int>345</int>
+            <int>2</int>
+            <int>30</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
-          <comparsionValue>3</comparsionValue>
+          <comparsionValue>2</comparsionValue>
           <minOnTheSameItem>2</minOnTheSameItem>
           <combinedComparsion>ANY</combinedComparsion>
           <combinedComparsionValue>10</combinedComparsionValue>
@@ -120,7 +126,7 @@
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
-      <emphasized>true</emphasized>
+      <emphasized>false</emphasized>
       <nameOverride />
     </Rule>
     <Rule>
@@ -129,12 +135,7 @@
         <Condition i:type="AffixCondition">
           <affixes>
             <int>26</int>
-            <int>71</int>
-            <int>70</int>
-            <int>73</int>
-            <int>98</int>
             <int>64</int>
-            <int>102</int>
             <int>643</int>
             <int>501</int>
             <int>721</int>
@@ -142,7 +143,6 @@
             <int>627</int>
             <int>590</int>
             <int>540</int>
-            <int>332</int>
             <int>666</int>
             <int>356</int>
             <int>348</int>
@@ -151,6 +151,18 @@
             <int>336</int>
             <int>353</int>
             <int>555</int>
+            <int>78</int>
+            <int>63</int>
+            <int>62</int>
+            <int>5</int>
+            <int>6</int>
+            <int>89</int>
+            <int>35</int>
+            <int>340</int>
+            <int>16</int>
+            <int>345</int>
+            <int>2</int>
+            <int>30</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>5</comparsionValue>

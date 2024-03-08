@@ -4,7 +4,7 @@
   <filterIcon>12</filterIcon>
   <filterIconColor>6</filterIconColor>
   <description>1.紅色物理冰霜召喚物傷害2.黃分解用3.深藍物理冰霜召喚物神像4.套裝少見要撿</description>
-  <lastModifiedInVersion>1.0.2</lastModifiedInVersion>
+  <lastModifiedInVersion>1.0.2.1</lastModifiedInVersion>
   <lootFilterVersion>2</lootFilterVersion>
   <rules>
     <Rule>
@@ -92,7 +92,6 @@
             <int>627</int>
             <int>590</int>
             <int>540</int>
-            <int>666</int>
             <int>356</int>
             <int>348</int>
             <int>347</int>
@@ -100,18 +99,10 @@
             <int>336</int>
             <int>353</int>
             <int>555</int>
-            <int>78</int>
-            <int>63</int>
-            <int>62</int>
-            <int>5</int>
-            <int>6</int>
-            <int>89</int>
-            <int>35</int>
             <int>340</int>
-            <int>16</int>
             <int>345</int>
-            <int>2</int>
-            <int>30</int>
+            <int>333</int>
+            <int>591</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>2</comparsionValue>
@@ -143,7 +134,6 @@
             <int>627</int>
             <int>590</int>
             <int>540</int>
-            <int>666</int>
             <int>356</int>
             <int>348</int>
             <int>347</int>
@@ -151,18 +141,10 @@
             <int>336</int>
             <int>353</int>
             <int>555</int>
-            <int>78</int>
-            <int>63</int>
-            <int>62</int>
-            <int>5</int>
-            <int>6</int>
-            <int>89</int>
-            <int>35</int>
             <int>340</int>
-            <int>16</int>
             <int>345</int>
-            <int>2</int>
-            <int>30</int>
+            <int>333</int>
+            <int>591</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>5</comparsionValue>
